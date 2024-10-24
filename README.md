@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malav Naagar</h1>
-<h3 align="center">MERN Stack Developer | Love Collaborating on Open Source | Cloud Computing Fanatic</h3>
+<h3 align="center">Full Stack Developer | Love Collaborating on Open Source | Cloud Computing Fanatic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malav4all&label=Profile%20views&color=0e75b6&style=flat" alt="malav4all" /> </p>
 
