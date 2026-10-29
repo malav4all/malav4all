@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malav Naagar</h1>
-<h3 align="center">Full Stack AI Engineer | Open Source Enthusiast | Cloud Computing & AI Integration Specialist</h3>
+<h3 align="center">Senior Full Stack Engineer → Full Stack AI Engineer<br/>Node.js · NestJS · AWS · GenAI (LLMs, RAG, Agents)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malav4all&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,78 +12,79 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Routeye** - Building AI-powered features for next-gen applications
-- 🌱 Learning and exploring **AI/ML Integration, LangChain, OpenAI APIs, Vector Databases, Docker & Video Analytics**
-- 🤖 Passionate about **Building intelligent applications that leverage cutting-edge AI and ML technologies**
-- 💡 Exploring **Generative AI, RAG Systems, AI Workflow Automation & Computer Vision**
-- 👯 Love collaborating on **Open Source Projects** - Always open to interesting projects and discussions
-- 💬 Ask me about **Full Stack Development, AI Integration, Cloud Computing & Machine Learning**
-- 📫 Reach me at **malavnagar90@gmail.com** | **+91-7053190777**
-- ⚡ Fun fact: I believe AI is not just about automation, it's about augmentation
+I'm a backend-heavy full stack engineer with **4.8+ years** of experience building scalable, real-time systems — and now bringing **Generative AI** into production apps.
+
+- 🔭 Currently building **Routeye** — a real-time IoT tracking platform, and adding AI-powered features to it
+- ⚡ Scaled a platform to **1000+ devices with 99.9% uptime**, cutting data-processing latency by **40%** using Kafka, RabbitMQ & Socket.io
+- 🤖 Focused on **LLM integration, RAG systems & AI agents** with Node.js / NestJS
+- 👨‍🏫 Mentored **8+ developers**; love clean architecture, code reviews & system design
+- 💬 Ask me about **Node.js, NestJS, microservices, event-driven systems & GenAI integration**
+- 📫 Reach me at **malavnagar90@gmail.com**
+- 💡 Fun fact: I believe AI is not about replacing developers — it's about augmenting them
 
 ---
 
-## 🤖 AI & Machine Learning Focus
+## 🤖 What I'm Building With AI
 
 ```
-🧠 AI Integration      → Building intelligent applications with LLMs, RAG systems & ML model deployment
-🔬 Research Areas      → Computer Vision, NLP, Generative AI & AI-powered automation
-🚀 Current Projects    → AI-enhanced full-stack solutions & vector database exploration
-⚡ Tech Stack          → Python, TensorFlow, PyTorch, LangChain, OpenAI APIs, Pinecone, ChromaDB
-🎯 Specialization      → Full-stack AI application development from concept to production
+🧠 LLM Integration   → OpenAI / Claude APIs in NestJS: streaming, tool calling, structured output
+📚 RAG Systems       → Chunking, embeddings, pgvector / Pinecone / ChromaDB, retrieval pipelines
+🕹️ AI Agents          → LangChain.js, LangGraph, MCP — multi-step, tool-using workflows
+🏗️ Production Focus   → Cost tracking, evals, guardrails, Dockerized deploys on AWS
 ```
+
+---
+
+## 📌 Featured Projects
+
+<!-- Replace the placeholders below with your real repos as you build them -->
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🗂️ **[Doc Q&A (RAG)](https://github.com/malav4all)** | Upload PDFs and ask questions with cited answers | NestJS · pgvector · LLM API · React |
+| 🛰️ **[IoT Insights Agent](https://github.com/malav4all)** | Ask device/fleet data questions in plain English | NestJS · LangGraph · PostgreSQL · Docker |
+| 💬 **[AI Chat Service](https://github.com/malav4all)** | Streaming chat API with tool calling & token tracking | Node.js · TypeScript · Redis |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **AI & Machine Learning**
+**Backend & Architecture**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,graphql,go,django" alt="backend" />
 </p>
 
-### **Frontend Development**
+**AI / GenAI**
 <p>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-0E75B6?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" alt="ChromaDB"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="ml" />
 </p>
 
-### **Backend Development**
+**Messaging & Real-time**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" alt="messaging" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
 </p>
 
-### **Databases**
+**Frontend**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,html,css,sass" alt="frontend" />
 </p>
 
-### **DevOps & Tools**
+**Databases**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="databases" />
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,linux,git,firebase" alt="devops" />
 </p>
 
 ---
@@ -96,11 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malav4all&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malav4all&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=malav4all&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -111,20 +108,18 @@
   <a href="https://linkedin.com/in/malav-naagar-a8494412b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/malav_naagar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="mailto:malavnagar90@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://instagram.com/malav_naagar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/malav4all">malav4all</a> - Let's build something amazing together!</i>
+  <i>⭐️ From <a href="https://github.com/malav4all">malav4all</a> — Let's build something amazing together!</i>
 </p>
